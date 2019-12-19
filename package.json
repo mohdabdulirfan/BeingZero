@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mohdabdulirfan/BeingZero/issues"
   },
-  "homepage": "https://github.com/mohdabdulirfan/BeingZero#readme"
+  "homepage": "https://github.com/mohdabdulirfan/BeingZero#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
