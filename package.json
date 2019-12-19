@@ -1,0 +1,19 @@
+{
+  "name": "beingzero",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohdabdulirfan/BeingZero.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohdabdulirfan/BeingZero/issues"
+  },
+  "homepage": "https://github.com/mohdabdulirfan/BeingZero#readme"
+}
